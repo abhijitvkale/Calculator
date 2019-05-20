@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2019-05-20T22:39:21Z" name="Surefire suite" finished-at="2019-05-20T22:39:21Z" duration-ms="18">
+    <groups>
+    </groups>
+    <test started-at="2019-05-20T22:39:21Z" name="Surefire test" finished-at="2019-05-20T22:39:21Z" duration-ms="18">
+      <class name="com.flexon.Calculator.TestCalc">
+        <test-method signature="testAdd()[pri:0, instance:com.flexon.Calculator.TestCalc@65d6b83b]" started-at="2019-05-20T15:39:21Z" name="testAdd" finished-at="2019-05-20T15:39:21Z" duration-ms="7" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAdd -->
+        <test-method signature="testSubstract()[pri:0, instance:com.flexon.Calculator.TestCalc@65d6b83b]" started-at="2019-05-20T15:39:21Z" name="testSubstract" finished-at="2019-05-20T15:39:21Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSubstract -->
+      </class> <!-- com.flexon.Calculator.TestCalc -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
